@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\source\\repos\\Prog Poe Part 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFD60A9-5E3F-454B-AA08-AE8B0348B2C5}|Prog Poe Part 1.csproj|c:\\users\\student\\source\\repos\\prog poe part 1\\cyberbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFD60A9-5E3F-454B-AA08-AE8B0348B2C5}|Prog Poe Part 1.csproj|solutionrelative:cyberbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFD60A9-5E3F-454B-AA08-AE8B0348B2C5}|Prog Poe Part 1.csproj|c:\\users\\student\\source\\repos\\prog poe part 1\\voicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFD60A9-5E3F-454B-AA08-AE8B0348B2C5}|Prog Poe Part 1.csproj|solutionrelative:voicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFD60A9-5E3F-454B-AA08-AE8B0348B2C5}|Prog Poe Part 1.csproj|c:\\users\\student\\source\\repos\\prog poe part 1\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFD60A9-5E3F-454B-AA08-AE8B0348B2C5}|Prog Poe Part 1.csproj|solutionrelative:soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFD60A9-5E3F-454B-AA08-AE8B0348B2C5}|Prog Poe Part 1.csproj|c:\\users\\student\\source\\repos\\prog poe part 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFD60A9-5E3F-454B-AA08-AE8B0348B2C5}|Prog Poe Part 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VoiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Prog Poe Part 1\\VoiceManager.cs",
+              "RelativeDocumentMoniker": "VoiceManager.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Prog Poe Part 1\\VoiceManager.cs",
+              "RelativeToolTip": "VoiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T11:23:09.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Prog Poe Part 1\\SoundManager.cs",
+              "RelativeDocumentMoniker": "SoundManager.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Prog Poe Part 1\\SoundManager.cs",
+              "RelativeToolTip": "SoundManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T11:22:18.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Prog Poe Part 1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Prog Poe Part 1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T11:21:23.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CyberBot.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Prog Poe Part 1\\CyberBot.cs",
+              "RelativeDocumentMoniker": "CyberBot.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Prog Poe Part 1\\CyberBot.cs",
+              "RelativeToolTip": "CyberBot.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T11:20:10.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
