@@ -7,8 +7,7 @@ class SoundManager
     {
         try
         {
-            SoundPlayer player = new SoundPlayer("welcome.W" +
-                "av");
+            SoundPlayer player = new SoundPlayer("welcome.wav");
             player.PlaySync();
         }
         catch
