@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Student\\source\\repos\\Prog Poe Part 1\\",
+  "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\GitHub\\chatbot\\Prog Poe Part 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEFD60A9-5E3F-454B-AA08-AE8B0348B2C5}|Prog Poe Part 1.csproj|c:\\users\\student\\source\\repos\\prog poe part 1\\cyberbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEFD60A9-5E3F-454B-AA08-AE8B0348B2C5}|Prog Poe Part 1.csproj|solutionrelative:cyberbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6443992D-1311-1C1B-BDA2-70A9EF00CEC4}|Prog Poe Part 1.csproj|c:\\users\\student\\documents\\github\\chatbot\\prog poe part 1\\cyberbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6443992D-1311-1C1B-BDA2-70A9EF00CEC4}|Prog Poe Part 1.csproj|solutionrelative:cyberbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEFD60A9-5E3F-454B-AA08-AE8B0348B2C5}|Prog Poe Part 1.csproj|c:\\users\\student\\source\\repos\\prog poe part 1\\voicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEFD60A9-5E3F-454B-AA08-AE8B0348B2C5}|Prog Poe Part 1.csproj|solutionrelative:voicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6443992D-1311-1C1B-BDA2-70A9EF00CEC4}|Prog Poe Part 1.csproj|c:\\users\\student\\documents\\github\\chatbot\\prog poe part 1\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6443992D-1311-1C1B-BDA2-70A9EF00CEC4}|Prog Poe Part 1.csproj|solutionrelative:soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEFD60A9-5E3F-454B-AA08-AE8B0348B2C5}|Prog Poe Part 1.csproj|c:\\users\\student\\source\\repos\\prog poe part 1\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEFD60A9-5E3F-454B-AA08-AE8B0348B2C5}|Prog Poe Part 1.csproj|solutionrelative:soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6443992D-1311-1C1B-BDA2-70A9EF00CEC4}|Prog Poe Part 1.csproj|c:\\users\\student\\documents\\github\\chatbot\\prog poe part 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6443992D-1311-1C1B-BDA2-70A9EF00CEC4}|Prog Poe Part 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEFD60A9-5E3F-454B-AA08-AE8B0348B2C5}|Prog Poe Part 1.csproj|c:\\users\\student\\source\\repos\\prog poe part 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEFD60A9-5E3F-454B-AA08-AE8B0348B2C5}|Prog Poe Part 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6443992D-1311-1C1B-BDA2-70A9EF00CEC4}|Prog Poe Part 1.csproj|c:\\users\\student\\documents\\github\\chatbot\\prog poe part 1\\desktop.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6443992D-1311-1C1B-BDA2-70A9EF00CEC4}|Prog Poe Part 1.csproj|solutionrelative:desktop.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6443992D-1311-1C1B-BDA2-70A9EF00CEC4}|Prog Poe Part 1.csproj|c:\\users\\student\\documents\\github\\chatbot\\prog poe part 1\\prog poe part 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6443992D-1311-1C1B-BDA2-70A9EF00CEC4}|Prog Poe Part 1.csproj|solutionrelative:prog poe part 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,54 +35,65 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "VoiceManager.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Prog Poe Part 1\\VoiceManager.cs",
-              "RelativeDocumentMoniker": "VoiceManager.cs",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\Prog Poe Part 1\\VoiceManager.cs",
-              "RelativeToolTip": "VoiceManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\chatbot\\Prog Poe Part 1\\SoundManager.cs",
+              "RelativeDocumentMoniker": "SoundManager.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\chatbot\\Prog Poe Part 1\\SoundManager.cs",
+              "RelativeToolTip": "SoundManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T11:23:09.898Z",
+              "WhenOpened": "2026-04-11T08:51:20.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SoundManager.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Prog Poe Part 1\\SoundManager.cs",
-              "RelativeDocumentMoniker": "SoundManager.cs",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\Prog Poe Part 1\\SoundManager.cs",
-              "RelativeToolTip": "SoundManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\chatbot\\Prog Poe Part 1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\chatbot\\Prog Poe Part 1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T11:22:18.647Z",
+              "WhenOpened": "2026-04-11T08:51:11.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Prog Poe Part 1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\Prog Poe Part 1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T11:21:23.526Z",
-              "EditorCaption": ""
+              "Title": "desktop.ini",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\chatbot\\Prog Poe Part 1\\desktop.ini",
+              "RelativeDocumentMoniker": "desktop.ini",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\chatbot\\Prog Poe Part 1\\desktop.ini",
+              "RelativeToolTip": "desktop.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2026-04-11T08:50:57.131Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CyberBot.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Prog Poe Part 1\\CyberBot.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\chatbot\\Prog Poe Part 1\\CyberBot.cs",
               "RelativeDocumentMoniker": "CyberBot.cs",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\Prog Poe Part 1\\CyberBot.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\chatbot\\Prog Poe Part 1\\CyberBot.cs",
               "RelativeToolTip": "CyberBot.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAgzczMzMw7wIEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T11:20:10.636Z",
+              "WhenOpened": "2026-04-11T08:50:52.098Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Prog Poe Part 1.csproj",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\chatbot\\Prog Poe Part 1\\Prog Poe Part 1.csproj",
+              "RelativeDocumentMoniker": "Prog Poe Part 1.csproj",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\chatbot\\Prog Poe Part 1\\Prog Poe Part 1.csproj",
+              "RelativeToolTip": "Prog Poe Part 1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-11T08:50:42.94Z"
             }
           ]
         }

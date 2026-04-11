@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wF320He4OPU=",
+  "dgSpecHash": "GMe7Ml8Fxp4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Student\\source\\repos\\Prog Poe Part 1\\Prog Poe Part 1.csproj",
+  "projectFilePath": "C:\\Users\\Student\\Documents\\GitHub\\chatbot\\Prog Poe Part 1\\Prog Poe Part 1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Student\\.nuget\\packages\\microsoft.extensions.objectpool\\8.0.10\\microsoft.extensions.objectpool.8.0.10.nupkg.sha512",
     "C:\\Users\\Student\\.nuget\\packages\\microsoft.win32.registry.accesscontrol\\10.0.5\\microsoft.win32.registry.accesscontrol.10.0.5.nupkg.sha512",

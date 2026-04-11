@@ -13,4 +13,13 @@
     <PackageReference Include="System.Speech" Version="10.0.5" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="welcome.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="welcome.wav\cybersecurity-.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
