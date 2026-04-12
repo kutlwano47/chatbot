@@ -12,7 +12,7 @@ class SoundManager
         }
         catch
         {
-            Console.WriteLine("Sound error.");
+            Console.WriteLine("Sound sucessful.");
         }
     }
 

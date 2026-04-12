@@ -31,7 +31,7 @@ class CyberBot
                     
 =============================================================================
                         SYSTEM BREACH MODE  
-                      CYBERSECURITY ASSISTANT 
+                   CYBERSECURITY ASSISTANT BOT
 =============================================================================
 ");
 
