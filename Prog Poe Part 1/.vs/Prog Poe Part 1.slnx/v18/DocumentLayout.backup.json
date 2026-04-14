@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\GitHub\\chatbot\\Prog Poe Part 1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6443992D-1311-1C1B-BDA2-70A9EF00CEC4}|Prog Poe Part 1.csproj|c:\\users\\student\\documents\\github\\chatbot\\prog poe part 1\\cyberbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6443992D-1311-1C1B-BDA2-70A9EF00CEC4}|Prog Poe Part 1.csproj|solutionrelative:cyberbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6443992D-1311-1C1B-BDA2-70A9EF00CEC4}|Prog Poe Part 1.csproj|c:\\users\\student\\documents\\github\\chatbot\\prog poe part 1\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6443992D-1311-1C1B-BDA2-70A9EF00CEC4}|Prog Poe Part 1.csproj|solutionrelative:soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6443992D-1311-1C1B-BDA2-70A9EF00CEC4}|Prog Poe Part 1.csproj|c:\\users\\student\\documents\\github\\chatbot\\prog poe part 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6443992D-1311-1C1B-BDA2-70A9EF00CEC4}|Prog Poe Part 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6443992D-1311-1C1B-BDA2-70A9EF00CEC4}|Prog Poe Part 1.csproj|c:\\users\\student\\documents\\github\\chatbot\\prog poe part 1\\cyberbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6443992D-1311-1C1B-BDA2-70A9EF00CEC4}|Prog Poe Part 1.csproj|solutionrelative:cyberbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +22,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SoundManager.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\chatbot\\Prog Poe Part 1\\SoundManager.cs",
               "RelativeDocumentMoniker": "SoundManager.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\chatbot\\Prog Poe Part 1\\SoundManager.cs*",
-              "RelativeToolTip": "SoundManager.cs*",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\chatbot\\Prog Poe Part 1\\SoundManager.cs",
+              "RelativeToolTip": "SoundManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T08:51:20.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T08:51:20.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\chatbot\\Prog Poe Part 1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -47,18 +46,17 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T08:51:11.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T08:51:11.684Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CyberBot.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\chatbot\\Prog Poe Part 1\\CyberBot.cs",
               "RelativeDocumentMoniker": "CyberBot.cs",
               "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\chatbot\\Prog Poe Part 1\\CyberBot.cs",
               "RelativeToolTip": "CyberBot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAABgmpmZmdkgwCEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-11T08:50:52.098Z",
               "EditorCaption": ""
