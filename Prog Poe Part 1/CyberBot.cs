@@ -134,7 +134,7 @@ Choose an option:
 
     private void Speak(string message)
     {
-        Console.ForegroundColor = ConsoleColor.DarkRed;
+        Console.ForegroundColor = ConsoleColor.Green;
         Console.WriteLine("Bot: " + message);
         Console.ResetColor();
 
