@@ -120,7 +120,7 @@ Choose an option:
                     break;
 
                 case "11":
-                    Speak("Goodbye. Stay safe online.");
+                    Speak("Goodbye.Stay safe online.");
                     return;
 
                 default:
